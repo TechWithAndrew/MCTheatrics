@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "coastercon:model/blank",
-		"particle": "coastercon:model/blank"
+		"0": "minecraft:model/blank",
+		"particle": "minecraft:model/blank"
 	},
 	"elements": [
 		{
