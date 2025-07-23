@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:model/blank",
-		"particle": "minecraft:model/blank"
+		"0": "model/blank",
+		"particle": "model/blank"
 	},
 	"elements": [
 		{
