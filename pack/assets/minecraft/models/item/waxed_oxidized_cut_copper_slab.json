@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "coastercon:model/ui/black_box",
-		"particle": "coastercon:model/ui/black_box"
+		"0": "model/item/black_box",
+		"particle": "model/item/black_box"
 	},
 	"elements": [
 		{
