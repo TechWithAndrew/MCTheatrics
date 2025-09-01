@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "lfx:model/fixtures/light_beam_01"
+		"0": "model/fixtures/light_beam_01"
 	},
 	"elements": [
 		{
