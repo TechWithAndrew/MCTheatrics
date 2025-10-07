@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/REMOTE",
-		"particle": "block/REMOTE"
+		"0": "item/cosmetics/REMOTE",
+		"particle": "item/cosmetics/REMOTE"
 	},
 	"elements": [
 		{
