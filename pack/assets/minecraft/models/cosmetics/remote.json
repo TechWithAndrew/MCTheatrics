@@ -3,7 +3,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/cosmetics/remote",
-		"particle": "item/cosmetics/remote"
 	},
 	"elements": [
 		{
