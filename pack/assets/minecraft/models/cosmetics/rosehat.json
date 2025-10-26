@@ -4,7 +4,6 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/cosmetics/Headband",
-		"particle": "item/cosmetics/Headband"
 	},
 	"elements": [
 		{
