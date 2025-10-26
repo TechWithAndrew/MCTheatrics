@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "cosmetics/glasses",
-		"particle": "cosmetics/glasses"
+		"0": "item/cosmetics/glasses",
+		"particle": "item/cosmetics/glasses"
 	},
 	"elements": [
 		{
