@@ -17,7 +17,7 @@ jobs:
         with:
           packsquash_version: latest
           options: |
-            pack_directory = './pack'
+            pack_directory = '.'
             output_file_path = './pack.zip'
 
       - name: Generate Hash
