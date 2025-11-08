@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "BradGlasses",
-		"particle": "BradGlasses"
+		"0": "item/cosmetics/bradglasses",
+		"particle": "item/cosmetics/bradglasses"
 	},
 	"elements": [
 		{
