@@ -2,10 +2,62 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:ranks/director.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀀ"]
+        }
+
+        {
+            "type": "bitmap",
             "file": "minecraft:ranks/coordinator.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀁ"]
         }
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/lead.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀆ"]
+        }
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/team-member.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀈ"]
+        }
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/company.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀊ"]
+        }
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/character.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꌔ"]
+        }
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/guest.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀌ"]
+        }
+
+
+
+        
     ]
 }     
