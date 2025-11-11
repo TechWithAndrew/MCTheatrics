@@ -1,9 +1,9 @@
 {
     "providers": [
-        {"type": "bitmap","file": "_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
+        {"type": "bitmap","file": "mctcore:_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
 
             
-            {"type": "bitmap","file": "_fonts/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]}
+            {"type": "bitmap","file": "mctcore:_fonts/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]}
         
             
     ]
