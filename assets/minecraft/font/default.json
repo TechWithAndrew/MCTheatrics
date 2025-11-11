@@ -2,20 +2,9 @@
     "providers": [
         {"type": "bitmap","file": "_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
 
-            {"type": "bitmap","file": "_fonts/ranks/director.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
             
-            {"type": "bitmap","file": "_fonts/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]},
+            {"type": "bitmap","file": "_fonts/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]}
         
-            {"type": "bitmap","file": "_fonts/ranks/imagineer.png","ascent": 7,"height": 7,"chars": ["ꀆ"]},
             
-            {"type": "bitmap","file": "_fonts/ranks/developer.png","ascent": 7,"height": 7,"chars": ["ꀈ"]},
-            
-            {"type": "bitmap","file": "_fonts/ranks/cast-member.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
-
-            {"type": "bitmap","file": "_fonts/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꌔ"]},
- 
-            {"type": "bitmap","file": "_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
-            
-            {"type": "bitmap","file": "_fonts/pixel_split.png","ascent": -32768,"height": -3,"chars": [""]}
     ]
 }
