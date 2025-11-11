@@ -6,7 +6,7 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꀀ"]
-        }
+        },
 
         {
             "type": "bitmap",
@@ -14,7 +14,7 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꀁ"]
-        }
+        },
 
         {
             "type": "bitmap",
@@ -22,7 +22,7 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꀆ"]
-        }
+        },
 
         {
             "type": "bitmap",
@@ -30,7 +30,7 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꀈ"]
-        }
+        },
 
         {
             "type": "bitmap",
@@ -38,7 +38,7 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꀊ"]
-        }
+        },
 
         {
             "type": "bitmap",
@@ -46,7 +46,7 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꌔ"]
-        }
+        },
 
         {
             "type": "bitmap",
