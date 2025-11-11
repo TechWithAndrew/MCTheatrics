@@ -7,8 +7,8 @@
         },
         {
             "type": "directory",
-            "source": "mctcore",
-            "prefix": "mctcore/"
+            "source": "mct",
+            "prefix": "mct/"
         },
         {
             "type": "directory",
