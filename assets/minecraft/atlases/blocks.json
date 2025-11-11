@@ -7,6 +7,11 @@
         },
         {
             "type": "directory",
+            "source": "mctcore",
+            "prefix": "mctcore/"
+        },
+        {
+            "type": "directory",
             "source": "items",
             "prefix": "items/"
         },
