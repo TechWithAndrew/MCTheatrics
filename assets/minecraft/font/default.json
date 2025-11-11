@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/coordinator.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀁ"]
+        }
+    ]
+}     
