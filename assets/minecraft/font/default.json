@@ -54,10 +54,13 @@
             "ascent": 7,
             "height": 7,
             "chars": ["ꀌ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:_fonts/logo.png",
+            "ascent": 42,
+            "height": 96,
+            "chars": ["ꡥꡦ","ꡧꡨ"]
         }
-
-
-
-        
     ]
 }     
