@@ -2,7 +2,7 @@
   "providers": [
 {
             "type": "bitmap",
-            "file": "minecraft:_fonts/smallcaps.png",
+            "file": "minecraft:ranks/smallcaps.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
