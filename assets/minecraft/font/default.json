@@ -59,7 +59,7 @@
             "type": "bitmap",
             "file": "minecraft:ranks/logo.png",
             "ascent": 42,
-            "height": 82,
+            "height": 62,
             "chars": ["ꡥ"]
         }
     ]
