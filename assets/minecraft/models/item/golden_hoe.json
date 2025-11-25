@@ -5,7 +5,8 @@
  },
 
  "overrides": [
-  { "predicate": {"custom_model_data": 1}, "model": "cosmetics/construction"}
+  { "predicate": {"custom_model_data": 1}, "model": "cosmetics/construction"},
+  { "predicate": {"custom_model_data": 2}, "model": "cosmetics/berrypie"}
 
  ]
 
