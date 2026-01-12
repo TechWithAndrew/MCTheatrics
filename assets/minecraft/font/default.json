@@ -34,6 +34,14 @@
 
         {
             "type": "bitmap",
+            "file": "minecraft:ranks/cast.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꃐ"]
+        },
+
+        {
+            "type": "bitmap",
             "file": "minecraft:ranks/company.png",
             "ascent": 7,
             "height": 7,
